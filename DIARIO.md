@@ -11,7 +11,7 @@ Parto de la rama main y creo la rama dev
 <br><br>
 TAREA 2
 La rama main es la rama estable. Trabajamos con la rama dev para que los cambios, si no van bien, no afecten a la aplicación en producción. A partir de dev vamos creando ramas para las nuevas funcionalidades. 
-
+<br><br>
 <img width="1076" height="708" alt="captura 3- programa" src="https://github.com/user-attachments/assets/4129b331-f42a-4d8f-85b7-df22d57f136d" />
 
 <br><br>
