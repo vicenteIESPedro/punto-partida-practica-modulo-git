@@ -38,6 +38,17 @@ Me ha aparecido también otro conflicto con la opcion 5 y opcion 6. En este caso
 <img width="784" height="716" alt="Captura 5-lineas de conflicto" src="https://github.com/user-attachments/assets/33a70062-c8f9-4518-88ce-6b1c56457ca9" />
 <br><br>
 <img width="996" height="679" alt="Captura 7-programa final" src="https://github.com/user-attachments/assets/e3bda00a-0290-4973-84f3-fd3f5e744e06" />
+<br><br>
+TAREA 6
+<img width="684" height="442" alt="captura 8-git log" src="https://github.com/user-attachments/assets/ee345f5a-b7da-45ca-8601-ae4487b6bcb7" />
+<br><br>
+Yo usaba git a nivel local, con github solo de soporte. Había aprendido yo por mi cuenta y lo usaba con un único usuario que era yo. Con esta clase he aprendido a usar GIT/GITHUB de forma colaborativa considerando que puede haber varios usuarios colaborando.
+<br><br>
+Opcional 1
+.env no está en Git (.gitignore) ya que contiene información local necesaria para la ejecución de nuestra aplicación. Esta información puede incluir contraseñas y claves. Si las subimos a Git y el repositorio es público, cualquiera podría obtener nuestras credenciales.
+<br><br>
+Opcional 2
+Porque dev esta actualizada con los ulltimos cambios en desarrollo, incluyendo cualquier feature sobre la que se esté trabajando. Si hago el FB desde una rama feature puede que no tenga todas las actualizaciones.
 
 
 
