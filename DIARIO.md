@@ -15,7 +15,9 @@ La rama main es la rama estable. Trabajamos con la rama dev para que los cambios
 <img width="1076" height="708" alt="captura 3- programa" src="https://github.com/user-attachments/assets/4129b331-f42a-4d8f-85b7-df22d57f136d" />
 
 <br><br>
-
-
+TAREA 3
+Un conflicto se produce cuando mezclar dos ramas (merge) y git no la puede realizar de forma automática. 
+Esto sucede porque la rama en la que se va a realizar un merge ya contiene una versión de un archivo de fecha de commit posterior a la que proviene de la rama a partir de la que queremos combinar y ambas contienen una misma línea con contenido distinto.
+En esta caso, se han generado dos ramas a partir de la misma versión en la rama dev. Las dos ramas cambian de forma distinta la linea correspondiente a la descripcion de Opción 3. Volcaremos (merge) una rama sobre dev. Al volcar la segunda rama, y tener la misma linea con contenido distinto, git no sabrá cual de las versiones de la línea debe conservar.
 
 
