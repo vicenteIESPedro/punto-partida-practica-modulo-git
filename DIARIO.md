@@ -27,4 +27,15 @@ Es últil revisarlo para asegurarse de que estamos realizando el merge con la ve
 <img width="1449" height="718" alt="captura 4- PR feature-opcion-5" src="https://github.com/user-attachments/assets/4eda4f04-a266-4bf3-9acb-dbe5d91ed710" />
 <img width="1574" height="726" alt="captura 4-2- PR feature-opcion-5" src="https://github.com/user-attachments/assets/fb32eeb3-18ff-4eb1-8444-864bc2a22a94" />
 <br><br>
+TAREA 5
+Aparecen cuando se hace un diff entre dos versiones del fichero. En este caso, ha ocurrigo cuando se ha hecho el merge y hay confilcto entre las dos versiones del fichero (una de cada brazo).
+Indican, para cada conflicto,  lo que aparecía en el primer fichero (<<<<<) y lo que aparecía en el segundo fichero (>>>>>>>) separados por ======
+<br><br>
+<img width="789" height="481" alt="captura 5- PR con error" src="https://github.com/user-attachments/assets/97fe980b-2748-4fc8-8c27-5653f5181180" />
+<br><br>
+<img width="784" height="716" alt="Captura 5-lineas de conflicto" src="https://github.com/user-attachments/assets/33a70062-c8f9-4518-88ce-6b1c56457ca9" />
+<br><br>
+<img width="996" height="679" alt="Captura 7-programa final" src="https://github.com/user-attachments/assets/e3bda00a-0290-4973-84f3-fd3f5e744e06" />
+
+
 
