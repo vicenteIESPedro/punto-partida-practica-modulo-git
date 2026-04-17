@@ -21,7 +21,7 @@ Esto sucede porque la rama en la que se va a realizar un merge ya contiene una v
 En esta caso, se han generado dos ramas a partir de la misma versión en la rama dev. Las dos ramas cambian de forma distinta la linea correspondiente a la descripcion de Opción 3. Volcaremos (merge) una rama sobre dev. Al volcar la segunda rama, y tener la misma linea con contenido distinto, git no sabrá cual de las versiones de la línea debe conservar.
 <br><br>
 TAREA 4
-En la ventana de Files Changed, en la parte inferior nos aparece una comparativa (diff) del fichero en las dos ramas involucradas en el merge. Nos aparecen las línes que se añaden/eliminan en la versión definitiva del fichero tras el merge.
+En la ventana de Files Changed, en la parte inferior nos aparece una comparativa (diff) del fichero en las dos ramas involucradas en el merge. Nos aparecen las líneas que se añaden/eliminan en la versión definitiva del fichero tras el merge.
 Es últil revisarlo para asegurarse de que estamos realizando el merge con la versión del fichero correcta
 <br>
 <img width="1449" height="718" alt="captura 4- PR feature-opcion-5" src="https://github.com/user-attachments/assets/4eda4f04-a266-4bf3-9acb-dbe5d91ed710" />
