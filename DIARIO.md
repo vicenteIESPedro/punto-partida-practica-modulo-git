@@ -30,6 +30,8 @@ Es últil revisarlo para asegurarse de que estamos realizando el merge con la ve
 TAREA 5
 Aparecen cuando se hace un diff entre dos versiones del fichero. En este caso, ha ocurrido cuando se ha hecho el merge y hay confilcto entre las dos versiones del fichero (una de cada brazo).
 Indican, para cada conflicto,  lo que aparecía en el primer fichero (<<<<<) y lo que aparecía en el segundo fichero (>>>>>>>) separados por ======
+Para el confilcto con la descripción de opción 3, he usado como criterio el que me indicas, quedarme con el texto de Opcion-6.
+Me ha aparecido también otro conflicto con la opcion 5 y opcion 6. En este caso, ya que las dos deben estar en el resultado, he dicho que ambas se queden.
 <br><br>
 <img width="789" height="481" alt="captura 5- PR con error" src="https://github.com/user-attachments/assets/97fe980b-2748-4fc8-8c27-5653f5181180" />
 <br><br>
