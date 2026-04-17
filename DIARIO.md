@@ -19,5 +19,12 @@ TAREA 3
 Un conflicto se produce cuando mezclar dos ramas (merge) y git no la puede realizar de forma automática. 
 Esto sucede porque la rama en la que se va a realizar un merge ya contiene una versión de un archivo de fecha de commit posterior a la que proviene de la rama a partir de la que queremos combinar y ambas contienen una misma línea con contenido distinto.
 En esta caso, se han generado dos ramas a partir de la misma versión en la rama dev. Las dos ramas cambian de forma distinta la linea correspondiente a la descripcion de Opción 3. Volcaremos (merge) una rama sobre dev. Al volcar la segunda rama, y tener la misma linea con contenido distinto, git no sabrá cual de las versiones de la línea debe conservar.
-
+<br><br>
+TAREA 4
+En la ventana de Files Changed, en la parte inferior nos aparece una comparativa (diff) del fichero en las dos ramas involucradas en el merge. Nos aparecen las línes que se añaden/eliminan en la versión definitiva del fichero tras el merge.
+Es últil revisarlo para asegurarse de que estamos realizando el merge con la versión del fichero correcta
+<br>
+<img width="1449" height="718" alt="captura 4- PR feature-opcion-5" src="https://github.com/user-attachments/assets/4eda4f04-a266-4bf3-9acb-dbe5d91ed710" />
+<img width="1574" height="726" alt="captura 4-2- PR feature-opcion-5" src="https://github.com/user-attachments/assets/fb32eeb3-18ff-4eb1-8444-864bc2a22a94" />
+<br><br>
 
