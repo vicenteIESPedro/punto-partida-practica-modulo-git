@@ -13,7 +13,7 @@ La rama main es la rama estable. Trabajamos con la rama dev para que los cambios
 
 <img width="1032" height="706" alt="captura 3- programa" src="https://github.com/user-attachments/assets/0092a6fe-9227-4ce9-bf84-748d1aaf8f2a" />
 
-
+<br><br>
 
 
 
