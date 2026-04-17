@@ -7,7 +7,7 @@ En un momento determinado puedes hacer un PR sobre el proyecto original para act
 Parto de la rama main y creo la rama dev
 
 <img width="1042" height="393" alt="captura 2-rama dev" src="https://github.com/user-attachments/assets/2296fc26-3277-4f1d-9886-88365733f239" />
-
+<br>
 TAREA 2
 La rama main es la rama estable. Trabajamos con la rama dev para que los cambios, si no van bien, no afecten a la aplicación en producción. A partir de dev vamos creando ramas para las nuevas funcionalidades. He descomentado la opción 4 para que sea visible tambien.
 
