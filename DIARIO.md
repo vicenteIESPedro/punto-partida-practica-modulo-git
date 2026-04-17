@@ -28,7 +28,7 @@ Es últil revisarlo para asegurarse de que estamos realizando el merge con la ve
 <img width="1574" height="726" alt="captura 4-2- PR feature-opcion-5" src="https://github.com/user-attachments/assets/fb32eeb3-18ff-4eb1-8444-864bc2a22a94" />
 <br><br>
 TAREA 5
-Aparecen cuando se hace un diff entre dos versiones del fichero. En este caso, ha ocurrigo cuando se ha hecho el merge y hay confilcto entre las dos versiones del fichero (una de cada brazo).
+Aparecen cuando se hace un diff entre dos versiones del fichero. En este caso, ha ocurrido cuando se ha hecho el merge y hay confilcto entre las dos versiones del fichero (una de cada brazo).
 Indican, para cada conflicto,  lo que aparecía en el primer fichero (<<<<<) y lo que aparecía en el segundo fichero (>>>>>>>) separados por ======
 <br><br>
 <img width="789" height="481" alt="captura 5- PR con error" src="https://github.com/user-attachments/assets/97fe980b-2748-4fc8-8c27-5653f5181180" />
